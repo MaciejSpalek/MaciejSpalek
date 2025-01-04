@@ -20,6 +20,7 @@
     <img src="https://img.shields.io/static/v1?message=React Query&logo=React-Query&labelColor=5c5c5c&color=2194F0&logoColor=2194F0&label=%20" />
     <img src="https://img.shields.io/static/v1?message=Redux&logo=Redux&labelColor=5c5c5c&color=7d42be&logoColor=white&label=%20" />
     <img src="https://img.shields.io/static/v1?message=React-testing-library&logo=ReactTestingLibrary&labelColor=5c5c5c&color=green&logoColor=green&label=%20" />
+    <img src="https://img.shields.io/static/v1?message=Cypress&logo=Cypress&labelColor=5c5c5c&color=green&logoColor=green&label=%20" />
 </div>
 
 <div>
@@ -31,6 +32,7 @@
 </div>
 <div>
     <img src="https://img.shields.io/static/v1?message=Node.js&logo=Node.js&labelColor=5c5c5c&color=green&logoColor=green&label=%20" />
+    <img src="https://img.shields.io/static/v1?message=NestJS&logo=NestJS&labelColor=5c5c5c&color=red&logoColor=red&label=%20" />
     <img src="https://img.shields.io/static/v1?message=MongoDB&logo=MongoDB&labelColor=5c5c5c&color=green&logoColor=green&label=%20" />
     <img src="https://img.shields.io/static/v1?message=Firebase&logo=Firebase&labelColor=5c5c5c&color=yellow&logoColor=yellow&label=%20" />
     <img src="https://img.shields.io/static/v1?message=Socket.io&logo=Socket.io&labelColor=5c5c5c&color=1182c3&logoColor=2194F0&label=%20" />
