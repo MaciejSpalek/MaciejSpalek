@@ -3,7 +3,7 @@
 ## 👨 About me
 
 - 🔭 I’m currently working on my Art portfolio website
-- 🌱 I’m currently learning Next.js, Typescript, React-testing-library/Jest
+- 🌱 I’m currently learning NestJS, Next.js, Typescript, React-testing-library/Jest and Cypress
 
 <br/>
 
